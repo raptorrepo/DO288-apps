@@ -1,0 +1,7 @@
+RHT_VENUE=novello
+RHT_ROLE=workstation
+RHT_ENROLLMENT=1
+RHT_COURSE=do288
+RHT_TITLE="Red Hat OpenShift Development II: Containerizing Applications"
+RHT_VMTREE="ocp4.6/x86_64"
+RHT_NETWORK=yes
